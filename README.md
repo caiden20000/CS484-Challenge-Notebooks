@@ -12,5 +12,11 @@ This repository is for Jupyter notebooks related to the CS484 final project.
   - Implements linear regression to predict homelessness rate.
   - Plots error and residual graphs to visualize model accuracy
   - by Brayan Alvarez de Leon
+- 5-xgboost.ipynb
+  - Implements XGBoost to predict homelessness rate.
+  - by Albert Chau
+- 6-randomforest.ipynb
+  - Implements a random forest model to predict homelessness rate.
+  - by Albert Chau
 
 Kaggle competition: https://www.kaggle.com/competitions/california-homelessness-prediction-challenge/overview
